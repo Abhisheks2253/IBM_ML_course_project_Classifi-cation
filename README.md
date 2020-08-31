@@ -1,1 +1,1 @@
-# IBM_ML_course_project_Classifi-cation
+# IBM_ML_course_project_Classification
